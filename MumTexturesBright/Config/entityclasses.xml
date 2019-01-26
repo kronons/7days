@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<configs>
+    <append xpath="/entity_classes">
+    <entity_class name="zombieStripperV1" extends="zombieStripper">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?StripperV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?STripperHairV1"/>
+    </entity_class>
+    <entity_class name="zombieStripperV2" extends="zombieStripper">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?StripperV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?StripperHairV2"/>
+    </entity_class>    
+    <entity_class name="zombieArleneV1" extends="zombieArlene">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ArleneV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ArleneHairV1"/>
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+        <property name="ReplaceMaterial3" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+    </entity_class>
+    <entity_class name="zombieArleneV2" extends="zombieArlene">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ArleneV2"/> 
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ArleneHairV2"/>
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+        <property name="ReplaceMaterial3" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+    </entity_class>    
+    <entity_class name="zombieBikerV1" extends="zombieBiker">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?BikerV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?BikerHair"/>
+    </entity_class>
+    <entity_class name="zombieBikerV2" extends="zombieBiker">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?BikerV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?BikerHair"/>
+    </entity_class>    
+    <entity_class name="zombieBoeV1" extends="zombieBoe">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?BoeV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>  
+    <entity_class name="zombieBoeV2" extends="zombieBoe">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?BoeV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>   
+    <entity_class name="zombieBurntV1" extends="zombieBurnt">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?BurntV1"/> 
+    </entity_class>  
+    <entity_class name="zombieBurntV2" extends="zombieBurnt">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?BurntV2"/> 
+    </entity_class> 
+    <entity_class name="zombieCheerleaderV1" extends="zombieCheerleader">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?CheerleaderV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?CheerleaderHairV1"/>
+    </entity_class>
+    <entity_class name="zombieCheerleaderV2" extends="zombieCheerleader">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?CheerleaderV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?CheerleaderHairV2"/>
+    </entity_class>    
+     <entity_class name="zombieDarleneV1" extends="zombieDarlene">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?DarleneV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial3" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?DarleneHairV1"/>
+    </entity_class>
+    <entity_class name="zombieDarleneV2" extends="zombieDarlene">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?DarleneV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial3" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?StripperHairV1"/>
+    </entity_class>    
+    <entity_class name="zombieFarmerV1" extends="zombieFarmer">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FarmerV1"/> 
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FarmerHairV1"/>
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+    </entity_class>
+    <entity_class name="zombieFarmerV2" extends="zombieFarmer">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FarmerV2"/> 
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FarmerHairV1"/>
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+    </entity_class>
+    <entity_class name="zombieFemaleFatV1" extends="zombieFemaleFat">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FatLadyV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FatLadyHairV1"/>
+    </entity_class>
+    <entity_class name="zombieFemaleFatV2" extends="zombieFemaleFat">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FatLadyV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FatLadyHairV2"/>
+    </entity_class>  
+    <entity_class name="zombieFatCopV1" extends="zombieFatCop">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FatCopV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class> 
+    <entity_class name="zombieFatCopV2" extends="zombieFatCop">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FatCopV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>     
+    <entity_class name="zombieFatHawaiianV1" extends="zombieFatHawaiian">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FatTouristV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>     
+    <entity_class name="zombieFatHawaiianV2" extends="zombieFatHawaiian">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FatTouristV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>     
+    <entity_class name="zombieWightFeralV1" extends="zombieWightFeral">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FeralV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class> 
+    <entity_class name="zombieWightFeralV2" extends="zombieWightFeral">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FeralV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>     
+    <entity_class name="zombieFootballPlayerV1" extends="zombieFootballPlayer">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FootballV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class> 
+    <entity_class name="zombieFootballPlayerV2" extends="zombieFootballPlayer">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?FootballV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class> 
+    <entity_class name="zombieMaleHazmatV1" extends="zombieMaleHazmat">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?HazmatV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class> 
+    <entity_class name="zombieMaleHazmatV2" extends="zombieMaleHazmat">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?HazmatV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>  
+    <entity_class name="zombieSkateboarderV1" extends="zombieSkateboarder">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?HoodieV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class> 
+    <entity_class name="zombieSkateboarderV2" extends="zombieSkateboarder">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?HoodieV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>   
+    <entity_class name="zombieJoeV1" extends="zombieJoe">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?JoeV1"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?JoeHairV1"/>
+        <property name="ReplaceMaterial3" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+    </entity_class>  
+    <entity_class name="zombieJoeV2" extends="zombieJoe">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?JoeV2"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?JoeHairV2"/>
+        <property name="ReplaceMaterial3" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+    </entity_class>     
+    <entity_class name="zombieLabV1" extends="zombieLab">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?LabV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?LabHairV1"/>
+    </entity_class> 
+    <entity_class name="zombieLabV2" extends="zombieLab">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?LabV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?LabHairV2"/>
+    </entity_class>  
+    <entity_class name="zombieMarleneV1" extends="zombieMarlene">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?MarleneV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?MarleneHairV1"/>
+    </entity_class>
+    <entity_class name="zombieMarleneV2" extends="zombieMarlene">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?MarleneV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?MarleneHairV2"/>
+    </entity_class>  
+     <entity_class name="zombieMoeV1" extends="zombieMoe">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?MoeV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?MoeHair"/>
+    </entity_class>
+    <entity_class name="zombieMoeV2" extends="zombieMoe">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?MoeV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?MoeHair"/>
+    </entity_class>    
+    <entity_class name="zombieNurseV1" extends="zombieNurse">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?NurseV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class> 
+    <entity_class name="zombieNurseV2" extends="zombieNurse">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?NurseV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>     
+    <entity_class name="zombieOldTimerV1" extends="zombieOldTimer">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?OldTimerV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?OldTimerHairV1"/>
+    </entity_class> 
+    <entity_class name="zombieOldTimerV2" extends="zombieOldTimer">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?OldTimerV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?OldTimerHairV2"/>
+    </entity_class>     
+    <entity_class name="zombieScreamerV1" extends="zombieScreamer">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ScreamerV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ScreamerHair"/>
+    </entity_class>
+    <entity_class name="zombieScreamerV2" extends="zombieScreamer">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ScreamerV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ScreamerHair"/>
+    </entity_class>
+    <entity_class name="zombieSnowV1" extends="zombieSnow">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SnowmanV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SnowmanHair"/>
+    </entity_class>
+    <entity_class name="zombieSnowV2" extends="zombieSnow">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SnowmanV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SnowmanHair"/>
+    </entity_class>    
+     <entity_class name="zombieSoldierV1" extends="zombieSoldier">  
+	    <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SoldierV1"/>
+    </entity_class> 
+    <entity_class name="zombieSoldierV2" extends="zombieSoldier">  
+	    <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SoldierV2"/> 
+    </entity_class> 
+    <entity_class name="zombieSpiderV1" extends="zombieSpider">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SpiderV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class> 
+    <entity_class name="zombieSpiderV2" extends="zombieSpider">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SpiderV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+    </entity_class>   
+    <entity_class name="zombieSteveV1" extends="zombieSteve">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SteveV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SteveHair"/>
+    </entity_class>
+    <entity_class name="zombieSteveV2" extends="zombieSteve">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SteveV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SteveHair"/>
+    </entity_class>
+    <entity_class name="zombieBusinessManV1" extends="zombieBusinessMan">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SuitV1"/> 
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SuitHair"/>
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+    </entity_class>
+    <entity_class name="zombieBusinessManV2" extends="zombieBusinessMan">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SuitV2"/> 
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?SuitHair"/>
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/>
+    </entity_class>
+    <entity_class name="zombieUtilityWorkerV1" extends="zombieUtilityWorker">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?WorkerV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?WorkerHair"/>
+    </entity_class>
+    <entity_class name="zombieUtilityWorkerV2" extends="zombieUtilityWorker">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?WorkerV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?WorkerHair"/>
+    </entity_class>
+    <entity_class name="zombieYoV1" extends="zombieYo">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?YoV1"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?YoHair"/>
+    </entity_class>
+    <entity_class name="zombieYoV2" extends="zombieYo">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?YoV2"/>
+        <property name="ReplaceMaterial1" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?Zeye"/> 
+        <property name="ReplaceMaterial2" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?YoHair"/>
+    </entity_class>   
+     <entity_class name="animalZombieBearV1" extends="animalZombieBear">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ZbearV1"/> 
+		<property name="Tags" value="animal,zombie,hostile"/>
+		<drop event="Harvest" name="foodRawMeat" count="0" tool_category="Butcher"/>
+		<drop event="Harvest" name="foodRottingFlesh" tag="butcherHarvest" count="7"/>
+		<drop event="Harvest" name="resourceLeather" tag="butcherHarvest" count="12"/>
+		<drop event="Harvest" name="resourceAnimalFat" tag="butcherHarvest" count="3"/>
+		<drop event="Harvest" name="resourceFemur" tag="butcherHarvest" count="5"/>
+		<drop event="Harvest" name="resourceFemur" tag="allToolsHarvest" count="1"/>			
+    </entity_class>
+     <entity_class name="animalZombieBearV2" extends="animalZombieBear">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ZbearV2"/>
+		<property name="Tags" value="animal,zombie,hostile"/>	
+		<drop event="Harvest" name="foodRawMeat" count="0" tool_category="Butcher"/>
+		<drop event="Harvest" name="foodRottingFlesh" tag="butcherHarvest" count="7"/>
+		<drop event="Harvest" name="resourceLeather" tag="butcherHarvest" count="12"/>
+		<drop event="Harvest" name="resourceAnimalFat" tag="butcherHarvest" count="3"/>
+		<drop event="Harvest" name="resourceFemur" tag="butcherHarvest" count="5"/>
+		<drop event="Harvest" name="resourceFemur" tag="allToolsHarvest" count="1"/>	
+    </entity_class>
+     <entity_class name="animalZombieDogV1" extends="animalZombieDog">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ZdogV1"/> 
+		<property name="Tags" value="animal,zombie,hostile"/>
+		<drop event="Harvest" name="foodRawMeat" count="0" tool_category="Butcher"/>
+		<drop event="Harvest" name="foodRottingFlesh" tag="butcherHarvest" count="4"/>
+		<drop event="Harvest" name="resourceLeather" tag="butcherHarvest" count="4"/>
+		<drop event="Harvest" name="resourceAnimalFat" tag="butcherHarvest" count="1"/>
+		<drop event="Harvest" name="resourceFemur" tag="butcherHarvest" count="3"/>
+		<drop event="Harvest" name="resourceFemur" tag="allToolsHarvest" count="1"/>		
+    </entity_class>
+     <entity_class name="animalZombieDogV2" extends="animalZombieDog">  
+        <property name="ReplaceMaterial0" value="#@modfolder:Resources/mumpfyZombieTextures.unity3d?ZdogV2"/> 
+		<property name="Tags" value="animal,zombie,hostile"/>
+		<drop event="Harvest" name="foodRawMeat" count="0" tool_category="Butcher"/>
+		<drop event="Harvest" name="foodRottingFlesh" tag="butcherHarvest" count="4"/>
+		<drop event="Harvest" name="resourceLeather" tag="butcherHarvest" count="4"/>
+		<drop event="Harvest" name="resourceAnimalFat" tag="butcherHarvest" count="1"/>
+		<drop event="Harvest" name="resourceFemur" tag="butcherHarvest" count="3"/>
+		<drop event="Harvest" name="resourceFemur" tag="allToolsHarvest" count="1"/>			
+    </entity_class>    
+    </append>
+</configs>

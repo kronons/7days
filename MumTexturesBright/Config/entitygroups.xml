@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<configs>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieStripper']" >
+      <entity name="zombieStripperV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieStripper']" >
+      <entity name="zombieStripperV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieArlene']" >
+      <entity name="zombieArleneV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieArlene']" >
+      <entity name="zombieArleneV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieBiker']" >
+      <entity name="zombieBikerV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieBiker']" >
+      <entity name="zombieBikerV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieBoe']" >
+      <entity name="zombieBoeV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieBoe']" >
+      <entity name="zombieBoeV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieBurnt']" >
+      <entity name="zombieBurntV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieBurnt']" >
+      <entity name="zombieBurntV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieCheerleader']" >
+      <entity name="zombieCheerleaderV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieCheerleader']" >
+      <entity name="zombieCheerleaderV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieDarlene']" >
+      <entity name="zombieDarleneV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieDarlene']" >
+      <entity name="zombieDarleneV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFarmer']" >
+      <entity name="zombieFarmerV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFarmer']" >
+      <entity name="zombieFarmerV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFemaleFat']" >
+      <entity name="zombieFemaleFatV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFemaleFat']" >
+      <entity name="zombieFemaleFatV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFatCop']" >
+      <entity name="zombieFatCopV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFatCop']" >
+      <entity name="zombieFatCopV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFatHawaiian']" >
+      <entity name="zombieFatHawaiianV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFatHawaiian']" >
+      <entity name="zombieFatHawaiianV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieWightFeral']" >
+      <entity name="zombieWightFeralV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieWightFeral']" >
+      <entity name="zombieWightFeralV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFootballPlayer']" >
+      <entity name="zombieFootballPlayerV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieFootballPlayer']" >
+      <entity name="zombieFootballPlayerV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieMaleHazmat']" >
+      <entity name="zombieMaleHazmatV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieMaleHazmat']" >
+      <entity name="zombieMaleHazmatV2"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSkateboarder']" >
+      <entity name="zombieSkateboarderV1"/>
+  </insertAfter>
+  <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSkateboarder']" >
+      <entity name="zombieSkateboarderV2"/>
+  </insertAfter>  
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieJoe']" >
+      <entity name="zombieJoeV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieJoe']" >
+      <entity name="zombieJoeV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieLab']" >
+      <entity name="zombieLabV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieLab']" >
+      <entity name="zombieLabV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieMarlene']" >
+      <entity name="zombieMarleneV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieMarlene']" >
+      <entity name="zombieMarleneV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieMoe']" >
+      <entity name="zombieMoeV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieMoe']" >
+      <entity name="zombieMoeV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieNurse']" >
+      <entity name="zombieNurseV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieNurse']" >
+      <entity name="zombieNurseV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieOldTimer']" >
+      <entity name="zombieOldTimerV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieOldTimer']" >
+      <entity name="zombieOldTimerV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieScreamer']" >
+      <entity name="zombieScreamerV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieScreamer']" >
+      <entity name="zombieScreamerV1"/>
+  </insertAfter>   
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSnow']" >
+      <entity name="zombieSnowV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSnow']" >
+      <entity name="zombieSnowV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSoldier']" >
+      <entity name="zombieSoldierV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSoldier']" >
+      <entity name="zombieSoldierV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSpider']" >
+      <entity name="zombieSpiderV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSpider']" >
+      <entity name="zombieSpiderV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSteve']" >
+      <entity name="zombieSteveV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieSteve']" >
+      <entity name="zombieSteveV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieBusinessMan']" >
+      <entity name="zombieBusinessManV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieBusinessMan']" >
+      <entity name="zombieBusinessManV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieUtilityWorker']" >
+      <entity name="zombieUtilityWorkerV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieUtilityWorker']" >
+      <entity name="zombieUtilityWorkerV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieYo']" >
+      <entity name="zombieYoV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='zombieYo']" >
+      <entity name="zombieYoV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='animalZombieBear']" >
+      <entity name="animalZombieBearV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='animalZombieBear']" >
+      <entity name="animalZombieBearV2"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='animalZombieDog']" >
+      <entity name="animalZombieDogV1"/>
+  </insertAfter> 
+    <insertAfter xpath="/entitygroups/entitygroup/entity[@name='animalZombieDog']" >
+      <entity name="animalZombieDogV2"/>
+  </insertAfter>   
+</configs>
